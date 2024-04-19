@@ -1,0 +1,6 @@
+.btn-circle{
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    border-color: #EBC3C1;
+}
